@@ -7,6 +7,3 @@
 [submodule "TREX_CONTROLLER"]
 	path = TREX_CONTROLLER
 	url = https://github.com/florianwotin/TREX_CONTROLLER.git
-[submodule "TREX_I2C_TESTER"]
-	path = TREX_I2C_TESTER
-	url = https://github.com/florianwotin/TREX_I2C_TESTER.git
