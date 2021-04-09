@@ -1,0 +1,12 @@
+[submodule "TREX_APPLICATION"]
+	path = TREX_APPLICATION
+	url = https://github.com/florianwotin/TREX_APPLICATION.git
+[submodule "TREX_RASPBERRY"]
+	path = TREX_RASPBERRY
+	url = https://github.com/florianwotin/TREX_RASPBERRY.git
+[submodule "TREX_CONTROLLER"]
+	path = TREX_CONTROLLER
+	url = https://github.com/florianwotin/TREX_CONTROLLER.git
+[submodule "TREX_I2C_TESTER"]
+	path = TREX_I2C_TESTER
+	url = https://github.com/florianwotin/TREX_I2C_TESTER.git
