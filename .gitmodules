@@ -7,3 +7,6 @@
 [submodule "TREX_CONTROLLER"]
 	path = TREX_CONTROLLER
 	url = https://github.com/florianwotin/TREX_CONTROLLER.git
+[submodule "TREX_IA"]
+	path = TREX_IA
+	url = https://github.com/florianwotin/TREX_IA.git
