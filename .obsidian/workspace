@@ -6,12 +6,12 @@
       {
         "id": "ba54c479118f0e32",
         "type": "leaf",
-        "dimension": 51.217948717948715,
+        "dimension": 51.21794871794871,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "TREX_APPLICATION/README.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TREX_APPLICATION/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,10 @@
   },
   "active": "ba54c479118f0e32",
   "lastOpenFiles": [
-    "README.md"
+    "TREX_APPLICATION/README.md",
+    "TREX_CONTROLLER/README.md",
+    "README.md",
+    "README.pdf",
+    "TREX_RASPBERRY/README.md"
   ]
 }

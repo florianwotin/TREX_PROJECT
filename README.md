@@ -2,26 +2,22 @@
 TREX Embedded GPU project
 
 
+## Brief
+This repository is composed of all the applications used in the TREX embedded GPU project.
+
 ## Installation
 
-pls clone the repository
+clone this repository in your workspace :
+```bash
+ git clone https://github.com/florianwotin/TREX_PROJECT.git
+```
 
-then in git bash for the other sub modules
-
+Then clone all the submodules :
 ```bash
  git submodule update --init --recursive
 ```
 
-```c++
-if(test){
-	playmusic();
-}
-```
 
-```mermaid
-graph TD; 
-A-->B; 
-A-->C; 
-B-->D; 
-C-->D;
-```
+
+
+
