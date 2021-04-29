@@ -17,7 +17,7 @@ This repository is composed of all the applications used in the TREX embedded GP
 
 
 ## Submodules
-- [Our mobile application](https://github.com/florianwotin/TREX_RASPBERRY)
+- [Our mobile application](https://github.com/florianwotin/TREX_APPLICATION)
 - [Our raspberry source code](https://github.com/florianwotin/TREX_RASPBERRY)
 - [Our microcontroller source code](https://github.com/florianwotin/TREX_CONTROLLER)
 - [Our neural network IA](https://github.com/florianwotin/TREX_IA.git)
